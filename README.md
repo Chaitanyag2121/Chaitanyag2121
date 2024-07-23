@@ -1,8 +1,8 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/devops-agile-development-optimisation-concept-virtual-screen-151305105.jpg)](https://rishavchanda.io)
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikeshops&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshops" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyag2121&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyag2121" /> </p>
 
-<h1 align="center">Hi , I'm Rushikesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Chaitanya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  -->
 
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Chaitanya+;I+hope+you're+doing+well;Enjoy+your+happy+day+%3A)" alt="Typing SVG" /></a></h3>
@@ -129,7 +129,7 @@
    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
    
-## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
+## 📫 How to reach me? <img align="center" src="https://github.com/chaitanyag2121/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/chaitanya-gogawale-125224304/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:chaitanyagogawale@outlook.com) 💌 <br>
