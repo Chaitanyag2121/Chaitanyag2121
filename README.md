@@ -5,7 +5,7 @@
 <h1 align="center">Hi , I'm Chaitanya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  -->
 
-<h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Chaitanya+;I+hope+you're+doing+well;Enjoy+your+happy+day+%3A)" alt="Typing SVG" /></a></h3>
+<h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Chaitanya+;I+hope+you're+doing+well;Enjoy+your+happy+day+😁)" alt="Typing SVG" /></a></h3>
  
 <p align="center" >
   <samp>
