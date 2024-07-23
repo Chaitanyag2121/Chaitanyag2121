@@ -1,17 +1,29 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Chaitanya Gogawale</h1>
-<h3 align="center">A passionate DevOps Engineer from India.</h3>
+
+<!-- markdownlint-disable MD033 MD041 -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋+there,+I'm+Chaitanya!;I+hope+you're+doing+well!;Enjoy+your+time+and+be+happy!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 <img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9PEREF46UgLjNTKgfUtKgwiECpJp1FomVkAeZ79pyT4vGIi_9ZP9r1PkBhsO_IClkC0s&usqp=CAU">
 
+<p align="center">
+  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
+    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyag2121&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyag2121" /> </p>
+<!-- markdownlint-enable MD033 -->
 
 - 📫 How to reach me **chaitanyagogawale@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chaitanyagogawale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanyagogawale" height="30" width="40" /></a>
-<a href="https://fb.com/chaitanyagogawale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chaitanyagogawale" height="30" width="40" /></a>
+<a href="https://fb.com/chaitanyagogawale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
+generator/master/src/images/icons/Social/facebook.svg" alt="chaitanyagogawale" height="30" width="40" /></a>
 <a href="https://instagram.com/call_me_c.g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="call_me_c.g" height="30" width="40" /></a>
 </p>
 
@@ -20,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyag2121&show_icons=true&locale=en&layout=compact" alt="chaitanyag2121" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chaitanyag2121&show_icons=true&locale=en" alt="chaitanyag2121" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanyag2121&show_icons=true&locale=en" alt="chaitanyag2121" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyag2121&" alt="chaitanyag2121" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyag2121&" alt="chaitanyag2121" /></p>
