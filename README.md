@@ -133,7 +133,7 @@
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/chaitanya-gogawale-125224304/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:chaitanyagogawale@outlook.com) 💌 <br>
-  ⦿ Dm me on [Instagram](https://www.instagram.com/call_me_c.g/) 💌 <br>
+  ⦿ Dm me on [Instagram](https://www.instagram.com/call_me_c.g/) ❤️ <br>
 <!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
 
  -->
