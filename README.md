@@ -144,7 +144,7 @@
 
 &nbsp;<div align="center">
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/chaitanya-gogawale-125224304/)
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/chaitanyag2121)
+  [![Visits](https://komarev.com/ghpvc/?username=chaitanyag2121&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/chaitanyag2121)
 </div>
 
 <div align="center">
