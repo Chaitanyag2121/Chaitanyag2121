@@ -9,7 +9,7 @@
  
 <p align="center" >
   <samp>
-    Hey, My name is <em>Chaitanya Gogawale</em> and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
+         Hello, I am Chaitanya Gogawale, a dedicated DevOps⚙️ Engineer passionate about enhancing the efficiency and effectiveness of software development and deployment. With a strong background in cloud computing, containerization, and automation, I excel at driving innovation and delivering top-notch results. My commitment to staying current with the latest DevOps tools and practices ensures that I continually refine my skills and seek new ways to optimize workflows. I am always on the lookout for innovative approaches to improve software delivery and streamline processes.
   </samp>
   <br/>
 </p>
